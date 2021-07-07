@@ -6,7 +6,8 @@ import datetime
 import json
 ##################参数####################
 ##########把下面替换我换位你的cookie#######
-COOKIE='替换我'
+COOKIE='Hm_lvt_a613198fced81912d3d81522e0b72332=1625633977; vip_community_pc_serviceToken=W7pfyp6xAepuO3sb04k+IsaeM1IE0e8xlFEsjCGu5l1BzCEmtPFrOpOd1ShwasUEWY02P6DVgzaH/tKCZBl3ARmEfYVj8Lllwh8NhbGAD+b92rJBpQjW+SjhtF/201hjIeHa7I4HH+lo8coT0jkEd3kOBAaoFTMnr8sQR2PFKR2G81RIi/rQZpKeMYDhXuwbPhkHgbeHiiN22b4mtGIEtCXywLXGucw4XTU61A5yhi1r0RDFGdayj1bL2dORpgYYjPNc6z83DQkVl9kLtOAZ5A==; cUserId=vJzjsSQWK1PKOjQvbw9zEf8Rsb8; vip_community_pc_ph=89afgq6bwRVjjxzmmV+c8g==; Hm_lpvt_a613198fced81912d3d81522e0b72332=1625634022
+'
 ##########################################
 #点赞评论都是这种
 base_header = {
